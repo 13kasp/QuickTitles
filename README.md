@@ -22,7 +22,7 @@ Tested on Windows. Should work on macOS and Linux but untested
 
 # How to use it
 
-Either read the instructions below or just watch this youtube tutorial
+Either read the instructions below or just watch [this youtube tutorial](https://youtu.be/RB30zNVdcsk?si=5JeOfCB8lMKOZGcF)
 
 ### 1. Download the app
 Go to the [Releases](../../releases) page and download the latest `QuickTitles.exe`
