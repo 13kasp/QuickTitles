@@ -1,7 +1,7 @@
 # QuickTitles
 
-<img width="1017" height="767" alt="image" src="https://github.com/user-attachments/assets/6d9c4b2e-c9c1-49c0-9c44-e9e453585737" />
-<img width="852" height="561" alt="image" src="https://github.com/user-attachments/assets/f4396f49-6b45-4190-9e0e-91091138ad30" />
+<img width="509" height="384" alt="image" src="https://github.com/user-attachments/assets/6d9c4b2e-c9c1-49c0-9c44-e9e453585737" />
+<img width="426" height="281" alt="image" src="https://github.com/user-attachments/assets/f4396f49-6b45-4190-9e0e-91091138ad30" />
 
 AI-powered animated subtitle generator. Transcribes video with OpenAI Whisper and renders 
 subtitles with customizable styling, animations, and highlighting
