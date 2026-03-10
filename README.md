@@ -24,44 +24,44 @@ Tested on Windows. Should work on macOS and Linux but untested
 
 Either read the instructions below or just watch this youtube tutorial
 
-## 1. Download the app
+### 1. Download the app
 Go to the [Releases](../../releases) page and download the latest `QuickTitles.exe`
 
-## 2. Add your videos
+### 2. Add your videos
 Click **Add Files** and select your video(s). Multiple files are supported and processed in sequence
 
-## 3. Configure your style
+### 3. Configure your style
 Head to the **Settings** tab and adjust font, colors, highlight style, animations, and subtitle position. Hover over any setting for a tooltip explaining what it does
 
-## 4. Transcribe
+### 4. Transcribe
 Click **1. Transcribe**. QuickTitles will extract the audio and run it through Whisper, the model downloads automatically on first use and is cached after that
 
-## 5. Review & edit
+### 5. Review & edit
 Click **2. Review & Edit Transcript** to check the transcription, fix any mistakes
 
-## 6. Render
+### 6. Render
 Once you're happy with the transcript, hit **render** and the finished video will be saved to the `output/` folder, prefixed with `sub_`.
 
 ---
 
 # For Developers
 
-## Requirements
+### Requirements
 - Python 3.11+ recommended (built on 3.14)
 - ffmpeg — download from [ffmpeg.org](https://ffmpeg.org) and place `ffmpeg.exe` in the 
   project root, or add it to your PATH
 
-## Install dependencies
+### Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-## Run from source
+### Run from source
 ```bash
 python main.py
 ```
 
-## Build .exe
+### Build .exe
 ```bash
 pyinstaller QuickTitles.spec
 ```
