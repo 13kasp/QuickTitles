@@ -1,0 +1,16 @@
+build/
+dist/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+quicktitles_settings.json
+quicktitles_debug.log
+ffmpeg.exe
+ffprobe.exe
+ffmpeg
+ffprobe
+.DS_Store
+Thumbs.db
+input/
+output/
