@@ -9,20 +9,20 @@ Should work for any OS though i only tested it on Windows
 Join https://discord.gg/np4XWvqgQ4 for support and updates
 Any feature suggestions are highly appreciated!
 
-## For developers
+# For developers
 
-# Python version
+## Python version
 Built and tested on Python 3.14. If you have dependency install issues, 
 Python 3.11 is recommended for running from source.
 
-# Requirements
+## Requirements
 - ffmpeg — download from https://ffmpeg.org and place `ffmpeg.exe` in the project root (or add to PATH)
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-# Run
+## Run
 python main.py
 
-# Build .exe
+## Build .exe
 pyinstaller QuickTitles.spec
