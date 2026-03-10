@@ -46,6 +46,9 @@ Once you're happy with the transcript, hit **render** and the finished video wil
 
 # For Developers
 
+Please contribute and add pull requests instead of just forking the code
+By working together we can make something genuinely powerful instead of having 500 semi-functional copies of the same thing :)
+
 ### Requirements
 - Python 3.11+ recommended (built on 3.14)
 - ffmpeg — download from [ffmpeg.org](https://ffmpeg.org) and place `ffmpeg.exe` in the 
